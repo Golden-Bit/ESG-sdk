@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+eurostat/output
+eurostat/output/
+
 # Spyder project settings
 .spyderproject
 .spyproject
